@@ -1,0 +1,13 @@
+
+#Task Lists :#
+
+#1# Git Remote Server Setup with HTTP Protocol.
+    Git Remote Server Setup with SSH Protocol.
+#2# Configure NGINX:
+#3# To find-out Disk Space using Shellscripting (df -k .).
+    #Connect to the multiple machines remotely, and deploy 'disk space-shellscript' in all the remote machines at a specific path and excute
+     that 'disk space shell script' to find the results(disk space of all machines).
+#4# To write Dockerfile content like install required softwares and deploy the war file from Nexus repository..etc.then push to github (Docker     containerization task)
+#5# To write a Shell script to create required number of containers by using Docker image. then push to github.
+#6# To integrate NEXUS repository in jenkins for storage artifacts (like war files in repositories..)
+    ## To configure above 4, 5, 6 points we able to create docker images, containers in that install tomcate and deploy war file in webapps at        a time.
